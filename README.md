@@ -42,6 +42,6 @@ Everything! I believe learning never stops and I'm constantly exploring new tech
 ## 🤝 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/louis-wong-b14015309/)
-- 📧 [Email](wongqiluo@gmail.com)
+- 📧 [Email](mailto:wongqiluo@gmail.com)
 
 *Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on any projects!*
