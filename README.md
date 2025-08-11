@@ -8,11 +8,11 @@ I love tinkering with new technologies and am always eager to learn more about p
 
 ## 🛠️ Skills
 
-*Just things I've used - I wouldn't call myself proficient in any of them!*
+*Just things I've used - I wouldn't call myself proficient in any of them*
 
 **Languages:** Python, C++, C, C#, Rust, GDScript
 
-**Python Libraries:** OpenCV, TensorFlow
+**Python Libraries:** OpenCV, TensorFlow, Flet
 
 **Frameworks:** Rocket, TailwindCSS, Qt6 (C++)
 
