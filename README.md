@@ -4,7 +4,7 @@ Student | Amateur Software Developer
 
 ## about Me
 
-I love tinkering with new technologies and am always eager to learn more about programming and DevOps. I enjoy exploring cutting-edge tech and continuously expanding my knowledge in software development.
+I love tinkering with new technologies and always eager to learn more about programming and DevOps. I enjoy exploring cutting-edge tech and continuously expanding my knowledge in software development.
 
 ## 🛠️ Skills
 
@@ -16,7 +16,7 @@ I love tinkering with new technologies and am always eager to learn more about p
 
 **Frameworks:** Rocket, TailwindCSS, Qt6 (C++)
 
-**Tools:** Git, Blender, DaVinci Resolve, Unity, Godot, Basic Linux commands
+**Tools:** Git, Blender, DaVinci Resolve, Unity, Godot, Basic Linux commands (I use Arch btw)
 
 **Databases:** SQLite
 
