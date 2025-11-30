@@ -1,20 +1,20 @@
 # Hi there! I'm Louis Wong 👋
 
-Student | Amateur Software Developer
+Year 1 EE student at CityUHK
 
 ## about Me
 
-I love tinkering with new technologies and always eager to learn more about programming and DevOps. I enjoy exploring cutting-edge tech and continuously expanding my knowledge in software development.
+I write bugs :)
 
 ## 🛠️ Skills
 
 *Just things I've used - I wouldn't call myself proficient in any of them*
 
-**Languages:** Python, C++, C, C#, Rust, GDScript
+**Languages:** Python, C++, C, C#, Rust, GDScript, JavaScript, TypeScript
 
 **Python Libraries:** OpenCV, TensorFlow, Flet
 
-**Frameworks:** Rocket, TailwindCSS, Qt6 (C++)
+**Frameworks:** Rocket, TailwindCSS, Qt6 (C++), Svelte
 
 **Tools:** Git, Blender, DaVinci Resolve, Unity, Godot, Basic Linux commands (I use Arch btw)
 
@@ -26,9 +26,9 @@ Everything! I believe learning never stops and I'm constantly exploring new tech
 
 ## 🎯 Planning to Learn
 
-**Languages:** Java, JavaScript, TypeScript
+**Languages:** Java,
 
-**Frameworks:** Node.js, React.js, Spring
+**Frameworks:** Node.js, Spring
 
 **Tools:** Docker, Kubernetes, Kafka
 
@@ -42,6 +42,6 @@ Everything! I believe learning never stops and I'm constantly exploring new tech
 ## 🤝 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/louis-wong-b14015309/)
-- 📧 [Email](mailto:wongqiluo@gmail.com)
+- 📧 [Email](mailto:wql-louis@outlook.com)
 
 *Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on any projects!*
