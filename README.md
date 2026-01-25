@@ -8,8 +8,6 @@ I write bugs :)
 
 ## 🛠️ Skills
 
-*Just things I've used - I wouldn't call myself proficient in any of them*
-
 **Languages:** Python, C++, C, C#, Rust, GDScript, JavaScript, TypeScript
 
 **Python Libraries:** OpenCV, TensorFlow, Flet
@@ -22,15 +20,11 @@ I write bugs :)
 
 ## 📚 Currently Learning
 
-Everything! I believe learning never stops and I'm constantly exploring new technologies.
+Still learning Rust and try to get into backend dev with Supabase.
 
 ## 🎯 Planning to Learn
 
-**Languages:** Java,
-
-**Frameworks:** Node.js, Spring
-
-**Tools:** Docker, Kubernetes, Kafka
+**Tools:** Podman, Kubernetes, Kafka
 
 **Databases:** PostgreSQL
 
