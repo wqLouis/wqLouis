@@ -2,14 +2,14 @@
 
 Year 1 Electrical Engineering student @ CityUHK
 
-## about me
-I write bugs :)
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Bug%20Hunter-%F0%9F%AA%B2-red?style=for-the-badge" alt="Bug Hunter">
   <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
   <img src="https://img.shields.io/badge/I%20use%20Arch%20btw-%231793D1?style=for-the-badge" alt="I use Arch btw">
+  <img src="https://img.shields.io/badge/Year%201%20EE-CityUHK-blue?style=for-the-badge" alt="CityUHK EE">
 </div>
+
+## about me
+I write bugs :)
 
 ## 🛠️ Skills & Tools
 
@@ -27,7 +27,7 @@ I write bugs :)
 
   <!-- Python libs & frameworks -->
   <br><br>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Flet-4FC08D?style=for-the-badge&logoColor=white" alt="Flet">
 
@@ -53,7 +53,7 @@ I write bugs :)
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black" alt="Zig">
   <img src="https://img.shields.io/badge/Computer%20Graphics-8A2BE2?style=for-the-badge&logoColor=white" alt="Computer Graphics">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase (Backend)">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase">
 </div>
 
 ## 🎯 Planning to Learn Next
@@ -65,11 +65,12 @@ I write bugs :)
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wqLouis&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wqLouis&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=wqLouis&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats">
+  <br><br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wqLouis&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages">
 </div>
 
 ## 🤝 Let's Connect
@@ -79,9 +80,8 @@ I write bugs :)
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:wql-louis@outlook.com">
-    <img src="https://img.shields.io/badge/Email-wql--louis@outlook.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-wql--louis@outlook.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
   </a>
 </div>
 
-**Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on any projects!**  
-Especially if it involves graphics, low-level stuff, game dev, or just debugging chaotic code together 🐛✨
+**Feel free to dive into my repos!**
