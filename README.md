@@ -5,7 +5,7 @@ Year 1 Electrical Engineering student @ CityUHK
 <div align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
   <img src="https://img.shields.io/badge/I%20use%20Arch%20btw-%231793D1?style=for-the-badge" alt="I use Arch btw">
-  <img src="https://img.shields.io/badge/Year%201%20EE-CityUHK-blue?style=for-the-badge" alt="CityUHK EE">
+  <img src="https://img.shields.io/badge/Year%202%20CDE-CityUHK-blue?style=for-the-badge" alt="CityUHK CDE">
 </div>
 
 ## about me
