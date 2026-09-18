@@ -1,6 +1,6 @@
 # Hi there! I'm Louis Wong 👋
 
-Year 1 Electrical Engineering student @ CityUHK
+Year 2 Computer and Data Engineering student @ CityUHK
 
 <div align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
