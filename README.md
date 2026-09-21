@@ -71,6 +71,13 @@ I write bugs :)
   <img src="https://github-readme-stats-fast.vercel.app/api?username=wqLouis&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats">
   <br><br>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wqLouis&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages">
+  <br><br>
+  <a href="https://ghfind.com/u/wqlouis?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/wqlouis?theme=dark" />
+      <img src="https://ghfind.com/api/card/mini/wqlouis?theme=light" alt="GitHub Roast score card" width="440" />
+    </picture>
+  </a>
 </div>
 
 ## 🤝 Let's Connect
